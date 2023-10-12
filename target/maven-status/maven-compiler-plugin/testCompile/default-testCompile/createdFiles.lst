@@ -1,7 +1,0 @@
-org/techskillshub/pageObjects/CartPage.class
-org/techskillshub/pageObjects/InventoryPage.class
-org/techskillshub/pageObjects/LoginPage.class
-org/techskillshub/pageObjects/CheckoutPage.class
-org/techskillshub/driverUtils/BaseDriver.class
-org/techskillshub/utils/ConfigReader.class
-org/techskillshub/testCases/LoginTest.class
